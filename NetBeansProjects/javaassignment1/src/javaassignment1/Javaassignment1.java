@@ -21,6 +21,15 @@ public class Javaassignment1 {
         b=5;
         c=a+b;
         System.out.println("the sum is"+c);
+        oddeven obj=new oddeven(4);
+        obj.numCheck();
+        Swap obj1=new Swap();
+        obj1.swap();
+        Swapw sw=new Swapw();
+        sw.swapW();
+        Primecheck pc=new Primecheck(11);
+        pc.primeCheck();
+        
     }
     
 }
