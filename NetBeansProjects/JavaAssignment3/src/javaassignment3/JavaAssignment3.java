@@ -19,6 +19,12 @@ public class JavaAssignment3 {
         l1.large();
         Palindrome p1=new Palindrome(111);
         p1.pali();
+        pattern1 p=new pattern1(5);
+        p.pattern();
+        pattern2 p2=new pattern2(5);
+        p2.pattern();
+        diamond d=new diamond(5);
+        d.pattern();
         // TODO code application logic here
     }
     
